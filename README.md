@@ -46,7 +46,7 @@ Here is a simplified overview of the 12 key steps we go through:
 
 ## 📘 Full PDF Guide
 
-👉 [Download the full explanation (PDF)](./XGBoost_Regression_Explained_Step_by_Step/XGBoost_Regression_Explained_Step_by_Step.pdf)
+👉 [Download the full explanation (PDF)](./XGBoost_Regression_Explained_Step_by_Step/XGBoost_Regression.pdf)
 
 ---
 
