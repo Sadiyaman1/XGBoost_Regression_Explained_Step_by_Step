@@ -54,7 +54,7 @@ Here is a simplified overview of the 12 key steps we go through:
 
 This tree may not be perfect, but it illustrates how XGBoost makes splitting decisions based on gain, gradients, and Hessians:
 
-![XGBoost Decision Tree](./XGBoost_decision_tree/XGBoost_decision_tree.png)
+![XGBoost Decision Tree](./XGBoost_decision_tree/decision_tree.png)
 
 ---
 
