@@ -2,7 +2,7 @@
 
 ---
 
-## 🔵**How does it work?**
+## **How does it work?**
 
 Here is a simplified overview of the 12 key steps we go through:
 
@@ -44,13 +44,13 @@ Here is a simplified overview of the 12 key steps we go through:
 
 ---
 
-## 📘 Full PDF Guide
+## Full PDF Guide
 
-👉 [Download the full explanation (PDF)](./XGBoost_Regression_Explained_Step_by_Step/XGBoost_Regression.pdf)
+** [Download the full explanation (PDF)](./XGBoost_Regression_Explained_Step_by_Step/XGBoost_Regression.pdf)
 
 ---
 
-## 🌳 Visual Example – First Tree in XGBoost
+## Visual Example – First Tree in XGBoost
 
 This tree may not be perfect, but it illustrates how XGBoost makes splitting decisions based on gain, gradients, and Hessians:
 
@@ -58,13 +58,13 @@ This tree may not be perfect, but it illustrates how XGBoost makes splitting dec
 
 ---
 
-## 🔍 Why this project?
+## Why this project?
 
 I wanted to deeply understand how **XGBoost Regression** works – not just use it as a black box.  
 This guide helped me visualize every step and gain real intuition.
 
 ---
 
-## 🧠 Keywords
+## Keywords
 
 `XGBoost`, `Regression`, `Gradient Boosting`, `Machine Learning`, `Explainable AI`, `SHAP`, `Learning Rate`, `Gain`, `Decision Tree`, `Python`
